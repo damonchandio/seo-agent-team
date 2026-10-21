@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+seo-data/
+*service_account*.json
+*.json.key
+__pycache__/
+*.pyc
+.venv/
+venv/
