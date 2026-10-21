@@ -1,5 +1,9 @@
 # seo-agent-team
 
+![seo-agent-team](.github/social-preview.png)
+
+[![tests](https://github.com/damonchandio/seo-agent-team/actions/workflows/tests.yml/badge.svg)](https://github.com/damonchandio/seo-agent-team/actions/workflows/tests.yml) ![licence](https://img.shields.io/badge/licence-MIT-16A6F0) ![runtime](https://img.shields.io/badge/python-3.10%2B-3776AB?logo=python&logoColor=white) [![stars](https://img.shields.io/github/stars/damonchandio/seo-agent-team?style=social)](https://github.com/damonchandio/seo-agent-team/stargazers)
+
 Six small AI agents that keep a WordPress site growing: they pick a keyword people really search, research
 sourced facts, write a long article, fix it until it scores 95+ in Rank Math, publish it, get it indexed, track how
 it ranks, and rewrite the ones stuck on page two.
